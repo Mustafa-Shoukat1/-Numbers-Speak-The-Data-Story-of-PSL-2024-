@@ -3,7 +3,7 @@
         Welcome!
     </h1>
     <p style="color: #1976D2; font-size: 18px; margin: 10px 0;">
-        Hi there! I'm Maryam Shoukat, a dedicated Data Analyst in training. I'm deeply immersed in the world of AI, exploring various concepts and techniques to enhance my skills. Join me on this exciting journey as we learn and grow together in the field of AI.
+        Hi there! I'm Mustafa Shoukat, a dedicated Data Analyst in training. I'm deeply immersed in the world of AI, exploring various concepts and techniques to enhance my skills. Join me on this exciting journey as we learn and grow together in the field of AI.
     </p>
     <p style="color: #43A047; font-size: 16px; font-style: italic; margin: 10px 0;">
         "Community empowers growth through shared knowledge and mutual support."
@@ -18,12 +18,12 @@
             <th style="color: #1976D2; font-size: 18px; padding: 8px; border-bottom: 2px solid #64B5F6;">Kaggle</th>
         </tr>
         <tr>
-            <td style="font-size: 16px; padding: 8px;">Maryam Shoukat</td>
+            <td style="font-size: 16px; padding: 8px;">Mustafa Shoukat</td> 
             <td style="font-size: 16px; padding: 8px;">mustafashoukat.ai@gmail.com</td>
             <td style="font-size: 16px; padding: 8px;">
                 <a href="https://www.linkedin.com/in/mustafashoukat/" target="_blank">
                     <img src="https://img.shields.io/badge/LinkedIn-0e76a8.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge" style="border-radius: 5px;">
-                </a>
+                </a>  
             </td>
             <td style="font-size: 16px; padding: 8px;">
                 <a href="https://github.com/Mustafa-Shoukat1" target="_blank">
